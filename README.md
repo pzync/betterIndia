@@ -10,4 +10,5 @@
 
 Magic happens when people and ideas from different fields interact. So our Slack channels include:
 
-**#uxdesign**  **#photography**
+**#uxdesign**    **#photography**    **#handlettering**
+
