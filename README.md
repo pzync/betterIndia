@@ -1,14 +1,5 @@
-# Creator Decaf
+# Solo 
 
-**A community of creators from all walks.** This is a place to collaborate, get inspiration, seek feedback, share your rituals, find work, or just hang out :)
+[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
 
-[Join now](http://cdecaf.slack.com)
-
-
-
-## Creators from all walks..
-
-Magic happens when people and ideas from different fields interact. So our Slack channels include:
-
-**#uxdesign**    **#photography**    **#handlettering**
-
+### [Demo & Documentation &rarr;](http://chibicode.github.io/solo)
