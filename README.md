@@ -6,7 +6,7 @@
 
 
 
-##Creators from all walks..
+## Creators from all walks..
 
 Magic happens when people and ideas from different fields interact. So our Slack channels include:
 
