@@ -2,13 +2,11 @@
 layout: default
 ---
 
-![logo](/cdecaf/cdecaf%20logo.png =80x80)
-
 **A community of creators from all walks.** This is a place to collaborate, get inspiration, seek feedback, share rituals, find work, or just hang out :)
 
-[**JOIN NOW**](http://cdecaf.slack.com)
+[**Join Now**](http://cdecaf.slack.com)
 
-Already a member? [LOG IN](http://cdecaf.slack.com/login)
+Already a member? [Login](http://cdecaf.slack.com/login)
 
 &nbsp;
 
@@ -50,4 +48,4 @@ You'll find lots of such channels in this community:
 
 **Let's make some magic..** 
 
-[**JOIN NOW**](http://cdecaf.slack.com)
+[**Join Now**](http://cdecaf.slack.com)
