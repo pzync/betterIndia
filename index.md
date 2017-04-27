@@ -1,12 +1,8 @@
-
-
-![logo](https://github.com/pzync/cdecaf/blob/master/cdecaf%20logo.png)
-
-
-
 ---
 layout: default
 ---
+
+![logo](https://github.com/pzync/cdecaf/blob/master/cdecaf%20logo.png)
 
 **A community of creators from all walks.** This is a place to collaborate, get inspiration, seek feedback, share rituals, find work, or just hang out :)
 
