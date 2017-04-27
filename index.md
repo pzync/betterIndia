@@ -17,10 +17,10 @@ Magic happpens when people and ideas from different fields interact. So our Slac
 [#uxdesign](http://) &nbsp; &nbsp;  [#photography](http://) &nbsp; &nbsp;  [#handlettering](http://)
 
 
-[#graphicdesign](http://)   [#illustration](http://)   [#writing](http://)   [#doodling](http://)
+[#graphicdesign](http://) &nbsp; &nbsp;  [#illustration](http://) &nbsp; &nbsp;  [#writing](http://) &nbsp; &nbsp;  [#doodling](http://)
 
 
-[#animation](http://)   [#fashion](http://)   [#stampmaking](http://)
+[#animation](http://) &nbsp; &nbsp;  [#fashion](http://) &nbsp; &nbsp;  [#stampmaking](http://)
 
 ..and many more.
 
@@ -32,14 +32,14 @@ Aren't we are all interested not just in creations; but the creators too!? Our r
 
 You'll find lots of such channels in Creator Decaf community:
 
-[#rituals](http://)   [#nostalgia](http://)   [#inspiration](http://)
+[#rituals](http://) &nbsp; &nbsp;  [#nostalgia](http://) &nbsp; &nbsp;  [#inspiration](http://)
 
 
-[#comics](http://)   [#tools](http://)   [#quirks](http://)   [#books](http://)
+[#comics](http://) &nbsp; &nbsp;  [#tools](http://) &nbsp; &nbsp;  [#quirks](http://) &nbsp; &nbsp;  [#books](http://)
 
 
-[#mynotebook](http://)   [#show-and-tell](http://)   [#careeradvice](http://)
+[#mynotebook](http://) &nbsp; &nbsp;  [#show-and-tell](http://) &nbsp; &nbsp;  [#careeradvice](http://)
 
 
-[#jobboard](http://)   [#put-me-in-touch](http://)
+[#jobboard](http://)  &nbsp; &nbsp; [#put-me-in-touch](http://)
 
