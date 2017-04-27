@@ -6,7 +6,7 @@ layout: default
 
 [**Join Now**](http://cdecaf.slack.com)
 
-Already a member? [Login Now](http://cdecaf.slack.com/login)
+Already a member? [Login](http://cdecaf.slack.com/login)
 
 ---
 
