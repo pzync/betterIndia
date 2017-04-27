@@ -1,3 +1,9 @@
+$nbsp;
+
+![logo](https://github.com/pzync/cdecaf/blob/master/cdecaf%20logo.svg)
+
+$nbsp;
+
 ---
 layout: default
 ---
