@@ -46,4 +46,4 @@ You'll find lots of such channels in this community:
 
 &nbsp;
 
-**Let's make some magic..** :sparkles:
+**Let's make some magic..**
