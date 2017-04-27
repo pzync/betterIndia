@@ -1,7 +1,7 @@
 # Site settings
-title: Solo, a Jekyll Theme
-tag_text: Solo
-description: Solo is a Jekyll theme that supports single-page websites only, but supports them well. Yes, it’s responsive.
+title: Creator Decaf, a community of creators from all walks
+tag_text: Creator Decaf
+description: Creator Decaf is a Slack community of creators. It is a place to collaborate, get inspiration, seek feedback, share rituals, find work, or just hang out.
 
 # Build settings
 markdown: kramdown
