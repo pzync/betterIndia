@@ -44,7 +44,6 @@ You'll find lots of such channels in this community:
 
 [#jobboard](http://)  &nbsp; &nbsp; [#put-me-in-touch](http://)
 
-
 &nbsp;
 
-**Let's make some magic** :sparkles:
+**Let's make some magic..**
