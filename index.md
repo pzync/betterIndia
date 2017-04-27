@@ -45,4 +45,4 @@ You'll find lots of such channels in this community:
 
 
 
-`Let's make some magic`
+`Let's make some magic :sparkles:`
