@@ -17,13 +17,13 @@ Already a member? [Login](http://cdecaf.slack.com/login)
 
 Magic happpens when people and ideas from different fields interact. So our Slack channels include
 
-[#uxdesign](http://) &nbsp; &nbsp;  [#photography](http://) &nbsp; &nbsp;  [#handlettering](http://)
+[#uxdesign](http://) &nbsp; &nbsp;  [#animation](http://) &nbsp; &nbsp;  [#doodling](http://)
 
 
-[#graphicdesign](http://) &nbsp; &nbsp;  [#illustration](http://) &nbsp; &nbsp;  [#writing](http://) &nbsp; &nbsp;  [#doodling](http://)
+[#graphicdesign](http://) &nbsp; &nbsp;  [#photography](http://) &nbsp; &nbsp;  [#writing](http://)
 
 
-[#animation](http://) &nbsp; &nbsp;  [#fashion](http://) &nbsp; &nbsp;  [#stampmaking](http://)
+[#illustration](http://) &nbsp; &nbsp;  [#fashion](http://) &nbsp; &nbsp;  [#diy](http://)
 
 ..and many more.
 
@@ -38,14 +38,16 @@ You'll find lots of such channels in this community:
 [#rituals](http://) &nbsp; &nbsp;  [#nostalgia](http://) &nbsp; &nbsp;  [#inspiration](http://)
 
 
-[#comics](http://) &nbsp; &nbsp;  [#tools](http://) &nbsp; &nbsp;  [#quirks](http://) &nbsp; &nbsp;  [#books](http://)
+[#comics](http://) &nbsp; &nbsp;  [#show-and-tell](http://) &nbsp; &nbsp;  [#books](http://)
 
 
-[#mynotebook](http://) &nbsp; &nbsp;  [#show-and-tell](http://) &nbsp; &nbsp;  [#careeradvice](http://)
+[#mynotebook](http://) &nbsp; &nbsp;  [#tools](http://) &nbsp; &nbsp;  [#careeradvice](http://)
 
 
-[#jobboard](http://)  &nbsp; &nbsp; [#put-me-in-touch](http://)
+[#jobboard](http://)  &nbsp; &nbsp; [#put-me-in-touch](http://) &nbsp; &nbsp;  [#fml](http://)
 
 &nbsp;
 
 **Let's make some magic..**
+
+[**Join Now**](http://cdecaf.slack.com)  &nbsp;  [Login](http://cdecaf.slack.com/login)
