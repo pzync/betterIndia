@@ -6,9 +6,9 @@ layout: default
 
 **A community of creators from all walks.** This is a place to collaborate, get inspiration, seek feedback, share rituals, find work, or just hang out :)
 
-[**Join Now**](http://cdecaf.slack.com)
+[**JOIN NOW**](http://cdecaf.slack.com)
 
-Already a member? [Login](http://cdecaf.slack.com/login)
+Already a member? [LOG IN](http://cdecaf.slack.com/login)
 
 &nbsp;
 
@@ -50,4 +50,4 @@ You'll find lots of such channels in this community:
 
 **Let's make some magic..** 
 
-[**Join Now**](http://cdecaf.slack.com)  &nbsp;  [Login](http://cdecaf.slack.com/login)
+[**JOIN NOW**](http://cdecaf.slack.com)
