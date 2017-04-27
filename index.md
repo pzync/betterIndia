@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![logo](/cdecaf/cdecaf%20logo.png =100x)
+![logo](/cdecaf/cdecaf%20logo.png =80x)
 
 **A community of creators from all walks.** This is a place to collaborate, get inspiration, seek feedback, share rituals, find work, or just hang out :)
 
