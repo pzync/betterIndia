@@ -6,6 +6,15 @@ layout: default
 
 [**Join Now**](http://cdecaf.slack.com)
 
+Already a member? [Login Now](http://cdecaf.slack.com/login)
+
+
 ## Creators from all walks..
 
 Magic happpens when people and ideas from different fields interact. So our Slack channels include
+
+[#uxdesign](http://)   [#photography](http://)   [#handlettering](http://)
+[#graphicdesign](http://)   [#illustration](http://)   [#writing](http://)   [#doodling](http://)
+[#animation](http://)   [#fashion](http://)   [#stampmaking](http://)
+
+..and many more.
