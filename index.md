@@ -26,7 +26,7 @@ Magic happpens when people and ideas from different fields interact. So our Slac
 
 
 
-## share n' seek more than just feedback.
+## ..share n' seek more than just feedback.
 Aren't we are all interested not just in creations; but the creators too!? Our rituals, inspirations, tools, tricks, mistakes and even rants make for such good insights. Frankly, we here are big fans of [Daily Routines](http://dailyroutines.typepad.com), [WaysWeWork](http://wayswework.io/) et al.
 
 
