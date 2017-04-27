@@ -27,10 +27,10 @@ Magic happpens when people and ideas from different fields interact. So our Slac
 
 
 ## ..share n' seek more than just feedback.
-Aren't we are all interested not just in creations; but the creators too!? Our rituals, inspirations, tools, tricks, mistakes and even rants make for such good insights. Frankly, we here are big fans of [Daily Routines](http://dailyroutines.typepad.com), [WaysWeWork](http://wayswework.io/) et al.
+Aren't we are all interested not just in creations; but the creators too!? Our rituals, inspirations, tools, tricks, mistakes and even rants make for such good insights. Frankly, we here are big fans of the Daily Routines tumblr, WaysWeWork.io et al.
 
 
-You'll find lots of such channels in Creator Decaf community:
+You'll find lots of such channels in this community:
 
 [#rituals](http://) &nbsp; &nbsp;  [#nostalgia](http://) &nbsp; &nbsp;  [#inspiration](http://)
 
