@@ -2,7 +2,9 @@
 layout: default
 ---
 
-**A community of creators from all walks.** This is a place to collaborate, get inspiration, seek feedback, share rituals, find work, or just hang out :)
+![Logo](/cdecaf/logo.png){: .callout}
+
+**A Slack community of creators from all walks.** This is a place to collaborate, get inspiration, seek feedback, share rituals, find work, or just hang out :)
 
 
 
