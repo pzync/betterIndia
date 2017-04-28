@@ -8,7 +8,9 @@ layout: default
 
 [![Join Now](/cdecaf/CTA.png){: .callout}](http://cdecaf.slack.com)   
   
----
+&nbsp;
+&nbsp;
+
 
 
 Already a member? [**Login**](http://cdecaf.slack.com/login)
