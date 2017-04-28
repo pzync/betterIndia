@@ -8,7 +8,7 @@ layout: default
 
 [![Join Now](/cdecaf/CTA.png){: .callout}](http://cdecaf.slack.com)   
 
-<br><br>
+<br><br><br><br>
 Already a member? [**Login**](http://cdecaf.slack.com/login/)
 
 
@@ -20,10 +20,10 @@ Magic happpens when people and ideas from different fields interact. So our Slac
 [#uxdesign](http://) &nbsp; &nbsp;  [#animation](http://) &nbsp; &nbsp;  [#doodling](http://)
 
 
-[#graphicdesign](http://) &nbsp; &nbsp;  [#photography](http://) &nbsp; &nbsp;  [#writing](http://)
+[#graphicdesign](http://) &nbsp; &nbsp;  [#photography](http://) &nbsp; &nbsp;  [#diy](http://)
 
 
-[#illustration](http://) &nbsp; &nbsp;  [#fashion](http://) &nbsp; &nbsp;  [#diy](http://)
+[#illustration](http://) &nbsp; &nbsp;  [#fashion](http://) &nbsp; &nbsp;  [#writing](http://)
 
 ..and many more.
 
