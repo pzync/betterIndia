@@ -8,7 +8,7 @@ layout: default
 
 [![Join Now](/cdecaf/CTA.png){: .callout}](http://cdecaf.slack.com)   
 
-<br><br><br><br>
+<br><br><br>
 Already a member? [**Login**](http://cdecaf.slack.com/login/)
 
 
@@ -51,4 +51,4 @@ You'll find lots of such channels in this community:
 
 **Let's make some magic..** 
 
-[**Join Now**](http://cdecaf.slack.com/)
+[**Join Now**](http://cdecaf.slack.com)
