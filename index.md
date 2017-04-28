@@ -4,7 +4,7 @@ layout: default
 
 **A community of creators from all walks.** This is a place to collaborate, get inspiration, seek feedback, share rituals, find work, or just hang out :)
 
-[![CTA <](/cdecaf/CTA.png)](http://cdecaf.slack.com)
+|: [![CTA <](/cdecaf/CTA.png)](http://cdecaf.slack.com) | 
 
 Already a member? [**Login**](http://cdecaf.slack.com/login)
 
