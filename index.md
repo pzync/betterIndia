@@ -13,7 +13,7 @@ layout: default
 
 
 
-Already a member? [**Login**](http://cdecaf.slack.com/login)
+Already a member? [**Login**](http://cdecaf.slack.com/login/)
 
 
 
