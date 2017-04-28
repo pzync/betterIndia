@@ -51,4 +51,4 @@ You'll find lots of such channels in this community:
 
 **Let's make some magic..** 
 
-[**Join Now**](http://cdecaf.slack.com)
+[**Join Now**](http://cdecaf.slack.com/)
