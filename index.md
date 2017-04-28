@@ -10,7 +10,7 @@ layout: default
   
 &nbsp; 
 
-&nbsp;
+
 
 Already a member? [**Login**](http://cdecaf.slack.com/login)
 
