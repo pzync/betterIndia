@@ -48,6 +48,6 @@ You'll find lots of such channels in this community:
 
 &nbsp;
 
-**Let's make some magic...** 
+**Let's make some magic..** 
 
 [**Join Now**](http://cdecaf.slack.com)
