@@ -11,6 +11,7 @@ layout: default
 Already a member? [**Login**](http://cdecaf.slack.com/login)
 
 &nbsp;
+
 ## Creators from all walks..
 
 Magic happpens when people and ideas from different fields interact. So our Slack channels include
