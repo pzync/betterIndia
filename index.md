@@ -5,15 +5,12 @@ layout: default
 **A community of creators from all walks.** This is a place to collaborate, get inspiration, seek feedback, share rituals, find work, or just hang out :)
 
 
-[![Join Now](/cdecaf/CTA.png){: .callout}](http://cdecaf.slack.com)   \
+[![Join Now](/cdecaf/CTA.png){: .callout}](http://cdecaf.slack.com)   
 
-  \
-
+  
 Already a member? [**Login**](http://cdecaf.slack.com/login)
 
 &nbsp;
-
-
 ## Creators from all walks..
 
 Magic happpens when people and ideas from different fields interact. So our Slack channels include
