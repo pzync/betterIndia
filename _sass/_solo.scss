@@ -155,5 +155,11 @@ pre > code {
 
 .callout {
     float: left;
-    padding: 1em;
+}
+
+.callout:after {
+    content: "";
+    height: 100%;
+    display: inline-block;
+    vertical-align: middle;
 }
