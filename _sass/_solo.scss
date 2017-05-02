@@ -155,11 +155,5 @@ pre > code {
 
 .callout {
     float: left;
-    display: inline;
-}
-
-.callout:after {
-    content:"\a";
-    white-space: pre;
 }
 
