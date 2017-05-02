@@ -160,7 +160,7 @@ pre > code {
 h1 {
     display:inline;
 }
-h1:after {
+h1:before {
     content:"\a";
     white-space: pre;
 }
