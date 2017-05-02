@@ -25,7 +25,7 @@ Magic happpens when people and ideas from different fields interact. So our Slac
 
 [#illustration](http://) &nbsp; &nbsp;  [#fashion](http://) &nbsp; &nbsp;  [#writing](http://)
 
-..and many more.
+and many more.
 
 
 
