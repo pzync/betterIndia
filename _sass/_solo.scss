@@ -158,10 +158,11 @@ pre > code {
 }
 
 h1 {
-    display:inline;
+    display:inline-block;
 }
 h1:before {
     content:"\a";
     white-space: pre;
+    overflow:hidden;
 }
 
