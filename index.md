@@ -15,7 +15,7 @@ Already a member? [**Login**](https://creatordecaf.slack.com/)
 
 ## Creators from all walks..
 
-Magic happpens when people and ideas from different fields interact. So our Slack channels include
+Magic happpens when people and ideas from different fields interact. Our Slack channels include
 
 [#uxdesign](https://creatordecaf.slack.com/messages/C5TBT7ZFD) &nbsp; &nbsp;  [#animation](https://creatordecaf.slack.com/messages/C5SPU7QNL/) &nbsp; &nbsp;  [#lettering](https://creatordecaf.slack.com/messages/C5U8F5RC6)
 
@@ -32,23 +32,23 @@ Magic happpens when people and ideas from different fields interact. So our Slac
 
 ## ..share n' seek more than just feedback.
 
-We are all interested not only in creations but the creators as well; don't we!? Our rituals, inspirations, tools, tricks, mistakes and even rants make for such good insights. Frankly, we here are big fans of the Daily Routines tumblr, WaysWeWork.io et al.
+We are all interested not only in creations but the creators as well; don't we! Our rituals, inspirations, tools, tricks, mistakes and even rants make for such good insights. Frankly, we here are big fans of the Daily Routines tumblr, WaysWeWork.io et al.
 
 
 You'll find lots of such channels in this community:
 
-[#rituals](http://) &nbsp; &nbsp;  [#nostalgia](http://) &nbsp; &nbsp;  [#inspiration](http://)
+[#rituals](https://creatordecaf.slack.com/messages/C5KLXR82C/) &nbsp; &nbsp;  [#nostalgia](https://creatordecaf.slack.com/messages/C5KLXR82C/) &nbsp; &nbsp;  [#inspiration](https://creatordecaf.slack.com/messages/C5KLXR82C/)
 
 
-[#comics](http://) &nbsp; &nbsp;  [#show-and-tell](http://) &nbsp; &nbsp;  [#books](http://)
+[#comics](https://creatordecaf.slack.com/messages/C5KLXR82C/) &nbsp; &nbsp;  [#show-and-tell](https://creatordecaf.slack.com/messages/C5KLXR82C/) &nbsp; &nbsp;  [#books](https://creatordecaf.slack.com/messages/C5TH6HEQM)
 
 
-[#mynotebook](http://) &nbsp; &nbsp;  [#tools](http://) &nbsp; &nbsp;  [#careeradvice](http://)
+[#mynotebook](https://creatordecaf.slack.com/messages/C5KLXR82C/) &nbsp; &nbsp;  [#tools](https://creatordecaf.slack.com/messages/C5U8M6KK8) &nbsp; &nbsp;  [#careeradvice](https://creatordecaf.slack.com/messages/C5KLXR82C/)
 
 
-[#jobboard](http://)  &nbsp; &nbsp; [#put-me-in-touch](http://) &nbsp; &nbsp;  [#fml](http://)
+[#jobboard](https://creatordecaf.slack.com/messages/C5ST4UCRF)  &nbsp; &nbsp; [#put-me-in-touch](https://creatordecaf.slack.com/messages/C5SQ9L00G) &nbsp; &nbsp;  [#fml](https://creatordecaf.slack.com/messages/C5ST9E3MF)
 
 &nbsp;
 
-Let's make some magic...
+Let's make some magic together...
 
