@@ -17,15 +17,16 @@ Already a member? [**Login**](http://cdecaf.slack.com/login)
 
 Magic happpens when people and ideas from different fields interact. So our Slack channels include
 
-[#uxdesign](http://) &nbsp; &nbsp;  [#animation](http://) &nbsp; &nbsp;  [#doodling](http://)
+[#uxdesign](http://) &nbsp; &nbsp;  [#animation](http://) &nbsp; &nbsp;  [#lettering](http://)
 
 
-[#graphicdesign](http://) &nbsp; &nbsp;  [#photography](http://) &nbsp; &nbsp;  [#diy](http://)
+[#graphicdesign](http://) &nbsp; &nbsp;  [#photography](http://) &nbsp; &nbsp;  [#fashion](http://)
 
 
-[#illustration](http://) &nbsp; &nbsp;  [#fashion](http://) &nbsp; &nbsp;  [#writing](http://)
+[#illustration](http://) &nbsp; &nbsp;  [#interiors](http://) &nbsp; &nbsp;  [#writing](http://)
 
-and many more.
+
+[#architecture](http://) &nbsp; &nbsp; and many more.
 
 
 
