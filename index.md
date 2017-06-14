@@ -9,7 +9,7 @@ layout: default
 [![Join Now](./CTA.png){: .callout}](http://cdecaf.slack.com)   
 
 <br><br><br>
-Already a member? [**Login**](http://cdecaf.slack.com/login)
+Already a member? [**Login**](https://creatordecaf.slack.com/)
 
 
 
@@ -17,16 +17,16 @@ Already a member? [**Login**](http://cdecaf.slack.com/login)
 
 Magic happpens when people and ideas from different fields interact. So our Slack channels include
 
-[#uxdesign](http://) &nbsp; &nbsp;  [#animation](http://) &nbsp; &nbsp;  [#lettering](http://)
+[#uxdesign](https://creatordecaf.slack.com/messages/C5TBT7ZFD) &nbsp; &nbsp;  [#animation](https://creatordecaf.slack.com/messages/C5SPU7QNL/) &nbsp; &nbsp;  [#lettering](https://creatordecaf.slack.com/messages/C5U8F5RC6)
 
 
-[#graphicdesign](http://) &nbsp; &nbsp;  [#photography](http://) &nbsp; &nbsp;  [#fashion](http://)
+[#graphicdesign](https://creatordecaf.slack.com/messages/C5U8G6LQN) &nbsp; &nbsp;  [#photography](https://creatordecaf.slack.com/messages/C5TGW0NPP) &nbsp; &nbsp;  [#fashion](https://creatordecaf.slack.com/messages/C5TH1KAA1/)
 
 
-[#illustration](http://) &nbsp; &nbsp;  [#interiors](http://) &nbsp; &nbsp;  [#writing](http://)
+[#illustration](https://creatordecaf.slack.com/messages/C5SSS35RP) &nbsp; &nbsp;  [#interiors](https://creatordecaf.slack.com/messages/C5TETGD1Q/) &nbsp; &nbsp;  [#writing](https://creatordecaf.slack.com/messages/C5TGWJKN1)
 
 
-[#architecture](http://) &nbsp; &nbsp; and many more.
+[#architecture](https://creatordecaf.slack.com/messages/C5SSW50HF) &nbsp; &nbsp; and many more.
 
 
 
