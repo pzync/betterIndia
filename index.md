@@ -6,7 +6,7 @@ layout: default
 
 
 
-[![Join Now](./CTA.png){: .callout}](http://cdecaf.slack.com)   
+[![Join Now](./CTA.png){: .callout}](https://goo.gl/forms/r5weVtVOqHjVjbME3)   
 
 <br><br><br>
 Already a member? [**Login**](https://creatordecaf.slack.com/)
