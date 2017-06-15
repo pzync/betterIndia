@@ -50,5 +50,5 @@ You'll find lots of such channels in this community:
 
 &nbsp;
 
-[Join now](https://goo.gl/forms/r5weVtVOqHjVjbME3) and let's make some magic together..
+[**Join now**](https://goo.gl/forms/r5weVtVOqHjVjbME3) and let's make some magic together..
 
